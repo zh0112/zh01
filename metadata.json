@@ -1,0 +1,7 @@
+{
+  "name": "Mixor Chicken Venlo",
+  "description": "De beste kip in Venlo - Snel, smaakvol en altijd vers bereid.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
